@@ -45,7 +45,7 @@ Playstore_Review_Analysis_Dashboard/
 │   └── Dashboard_Page2.png
 │
 │── Video/
-│    └── playstore_review_analysis_video.mp4
+│    └── Playstore_Review_Analysis_PowerBI.mp4
 └─ README.md
 
 ---
@@ -59,7 +59,8 @@ Here is images of the Power BI dashboard:
 
 ## 🎥 Demo Video
 You can watch a quick demo of the dashboard here:
-👉 [Demo Video Link](https://drive.google.com/file/d/1CcMYWqkNsGBsnxQBWv66wAzMcYZb0qqg/view?usp=drive_link)
+👉 [Demo Video Link](https://drive.google.com/file/d/1Fbekn77lL1HyP7pHCXewAbE9f0mGxna_/view?usp=drive_link)
+👉 [Demo Video Link](video/Playstore_Review_Analysis_PowerBI.mp4)
 
 ---
 
