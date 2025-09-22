@@ -60,7 +60,7 @@ Here is images of the Power BI dashboard:
 ## 🎥 Demo Video
 You can watch a quick demo of the dashboard here:
 👉 [Demo Video Link](https://drive.google.com/file/d/1Fbekn77lL1HyP7pHCXewAbE9f0mGxna_/view?usp=drive_link)
-👉 [Demo Video Link](video/Playstore_Review_Analysis_PowerBI.mp4)
+👉 [Demo Video Link](Video/Playstore_Review_Analysis_PowerBI.mp4)
 
 ---
 
